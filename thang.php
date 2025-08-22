@@ -6,15 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    hihi
-    <h1>thắng đẹp tai vãi</h1>
-<<<<<<< Updated upstream
-    <h2>thang hihi
-        
-    </h2>
-=======
-    <h3>anh yeu em vai</h3>
-    <h5>nhánh thứ 5</h5>
->>>>>>> Stashed changes
+    <H1>THANG</H1>
 </body>
 </html>
